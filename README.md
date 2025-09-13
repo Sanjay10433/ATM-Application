@@ -38,7 +38,7 @@ ATM-Simulation/
 
 Clone the repository:
 
-git clone https://github.com/yourusername/ATM-Simulation.git
+git clone https://github.com/Sanjay10433/ATM Application.git
 
 
 Open in Eclipse or IntelliJ IDEA
